@@ -1,0 +1,4 @@
+secrets.txt
+
+#These files gonna be ignored
+#Use *<fileextension> Eg. *.txt to ignore all text files
